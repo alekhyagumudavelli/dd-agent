@@ -250,3 +250,4 @@ use_mount: no
 # log_to_syslog: yes
 # syslog_host:
 # syslog_port:
+# dogstreams: /var/log/web.log
